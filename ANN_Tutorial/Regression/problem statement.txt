@@ -1,0 +1,2 @@
+The HousimgData.csv file provided contains multiple numerical columns. 
+Develop an Artificial Neural Network to Predict the value of MEDV using regression. Also Evaluate the model.
