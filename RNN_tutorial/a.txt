@@ -1,0 +1,7 @@
+Tutorial 1
+Numeric Sequences have been prepared using python code and used for training and evaluation of RNN models. 
+Varrious kinds of RNN's have been demonstrated in the tutorial.
+
+Tutorial 2
+Word prediction is implemented using RNN. the data contains 3 word long sentences.
+The final model takes in two words as input and predicts the third word.
