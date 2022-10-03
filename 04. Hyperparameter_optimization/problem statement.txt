@@ -1,3 +1,8 @@
 In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. 
 
 A CNN model is prepared using 'Digits' dataset, the task is to find optimal set of hyperparameters to improve its performance.
+
+This Demo has been prepared referring to multiple other tutorials.
+
+The dataset is also available at 
+https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/digits.csv.gz
